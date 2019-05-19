@@ -1,0 +1,8 @@
+C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\RadioArma\bin\x64\Release\RadioArma.dll
+C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\RadioArma\bin\x64\Release\RadioArma.pdb
+C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\RadioArma\bin\x64\Release\RGiesecke.DllExport.Metadata.dll
+C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\RadioArma\obj\x64\Release\RadioArma.csprojAssemblyReference.cache
+C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\RadioArma\obj\x64\Release\RadioArma.csproj.CoreCompileInputs.cache
+C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\RadioArma\obj\x64\Release\RadioArma.csproj.CopyComplete
+C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\RadioArma\obj\x64\Release\RadioArma.dll
+C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\RadioArma\obj\x64\Release\RadioArma.pdb

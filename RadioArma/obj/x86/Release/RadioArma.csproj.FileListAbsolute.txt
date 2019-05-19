@@ -1,0 +1,14 @@
+C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\RadioArma\bin\x86\Release\libmp3lame.32.dll
+C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\RadioArma\bin\x86\Release\libmp3lame.64.dll
+C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\RadioArma\bin\x86\Release\RadioArma.dll.config
+C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\RadioArma\bin\x86\Release\RadioArma.dll
+C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\RadioArma\bin\x86\Release\RadioArma.pdb
+C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\RadioArma\bin\x86\Release\AngleSharp.xml
+C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\RadioArma\bin\x86\Release\NAudio.xml
+C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\RadioArma\bin\x86\Release\Newtonsoft.Json.xml
+C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\RadioArma\bin\x86\Release\YoutubeExplode.xml
+C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\RadioArma\obj\x86\Release\RadioArma.csproj.CoreCompileInputs.cache
+C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\RadioArma\obj\x86\Release\RadioArma.csproj.Fody.CopyLocal.cache
+C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\RadioArma\obj\x86\Release\RadioArma.csproj.CopyComplete
+C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\RadioArma\obj\x86\Release\RadioArma.dll
+C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\RadioArma\obj\x86\Release\RadioArma.pdb

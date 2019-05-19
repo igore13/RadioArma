@@ -1,0 +1,14 @@
+C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\ConsoleApp1\bin\Release\libmp3lame.32.dll
+C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\ConsoleApp1\bin\Release\libmp3lame.64.dll
+C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\ConsoleApp1\bin\Release\ConsoleApp1.exe.config
+C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\ConsoleApp1\bin\Release\ConsoleApp1.exe
+C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\ConsoleApp1\bin\Release\ConsoleApp1.pdb
+C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\ConsoleApp1\bin\Release\AngleSharp.xml
+C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\ConsoleApp1\bin\Release\NAudio.xml
+C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\ConsoleApp1\bin\Release\Newtonsoft.Json.xml
+C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\ConsoleApp1\bin\Release\YoutubeExplode.xml
+C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\ConsoleApp1\obj\Release\ConsoleApp1.csproj.Fody.CopyLocal.cache
+C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CopyComplete
+C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\ConsoleApp1\obj\Release\ConsoleApp1.exe
+C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\ConsoleApp1\obj\Release\ConsoleApp1.pdb

@@ -1,0 +1,6 @@
+C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\RadioArma\bin\Release\RadioArma.dll
+C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\RadioArma\bin\Release\RadioArma.pdb
+C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\RadioArma\obj\Release\RadioArma.csprojAssemblyReference.cache
+C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\RadioArma\obj\Release\RadioArma.csproj.CoreCompileInputs.cache
+C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\RadioArma\obj\Release\RadioArma.dll
+C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\RadioArma\obj\Release\RadioArma.pdb

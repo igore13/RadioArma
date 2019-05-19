@@ -1,0 +1,7 @@
+C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\RadioArma\bin\x64\Debug\RadioArma.dll
+C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\RadioArma\bin\x64\Debug\RadioArma.pdb
+C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\RadioArma\obj\x64\Debug\RadioArma.csproj.CoreCompileInputs.cache
+C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\RadioArma\obj\x64\Debug\RadioArma.dll
+C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\RadioArma\obj\x64\Debug\RadioArma.pdb
+C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\RadioArma\bin\x64\Debug\RadioArma.dll.CodeAnalysisLog.xml
+C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\RadioArma\bin\x64\Debug\RadioArma.dll.lastcodeanalysissucceeded
