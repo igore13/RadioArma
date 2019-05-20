@@ -7,6 +7,7 @@ C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\ConsoleApp1\bin
 C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\ConsoleApp1\bin\Release\NAudio.xml
 C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\ConsoleApp1\bin\Release\Newtonsoft.Json.xml
 C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\ConsoleApp1\bin\Release\YoutubeExplode.xml
+C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\ConsoleApp1\obj\Release\ConsoleApp1.csprojAssemblyReference.cache
 C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CoreCompileInputs.cache
 C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\ConsoleApp1\obj\Release\ConsoleApp1.csproj.Fody.CopyLocal.cache
 C:\Users\Igore\Desktop\Mods GMOD ARMA 3\Extension Arma\RadioArma\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CopyComplete

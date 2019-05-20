@@ -10,12 +10,6 @@ Param 2 = available radio : Skyrock,NRJ,Nostalgie,CherieFM,RireEtChansons,FunRad
 -------------------------------------------------------
 
 -------------------------------------------------------
-Function Radio Stop: 
-_packet = format['RADIO_STOP%1%2%3%4%5', toString [10], '', toString [10], '', toString [10]];
-'RadioArma' callExtension _packet;
--------------------------------------------------------
-
--------------------------------------------------------
 Function Youtube Play : 
 _packet = format['YOUTUBE_PLAY%1%2%3%4%5', toString [10], 'zgBEVbDzuu4', toString [10], '', toString [10]];
 'RadioArma' callExtension _packet;
@@ -24,8 +18,8 @@ Param 1 = zgBEVbDzuu4 is Id of Youtube Media
 -------------------------------------------------------
 
 -------------------------------------------------------
-Function Youtube Stop : 
-_packet = format['YOUTUBE_STOP%1%2%3%4%5', toString [10], '', toString [10], '', toString [10]];
+Function Stop (Radio and YouTube) : 
+_packet = format['STOP%1%2%3%4%5', toString [10], '', toString [10], '', toString [10]];
 'RadioArma' callExtension _packet;
 -------------------------------------------------------
 

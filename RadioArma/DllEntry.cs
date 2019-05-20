@@ -86,10 +86,6 @@ namespace RadioArma
                     Play(url);
                     response = "Done";
                     break;
-                case "RADIO_STOP":
-                    Stop(false, "");
-                    response = "Done";
-                    break;
                 case "SOUND_VOLUME":
                     Volume(data0);
                     response = "Done";
@@ -105,8 +101,15 @@ namespace RadioArma
 
                     response = "Done";
                     break;
-                case "YOUTUBE_STOP":
-                    StopYoutube(false, "");
+                case "STOP":
+                    if (isPlayingYouTube)
+                    {
+                        StopYoutube(false, "");
+                    }
+                    if (isPlayingRadio)
+                    {
+                        Stop(false, "");
+                    }
 
                     response = "Done";
                     break;
