@@ -47,4 +47,5 @@ Param 1 = Pourcent Number of Sound Volume
 Source : https://github.com/maca134/arma-nradio
 
 
-BattlEye is blocked extension but is non whitelist , a whitelist request will be made once the entire extension is finished
+BattlEye is blocked extension but is non whitelist , a whitelist request will be made once the entire extension is finished.
+File SQF/HPP for Call Arma : Work In Progress
