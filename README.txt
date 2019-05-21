@@ -31,7 +31,7 @@ _packet = format['YOUTUBE_SEARCH%1%2%3%4%5', toString [10], 'soprano fragile', t
 Param 1 = text of search on youtube
 Param 2 = page of number search
 
-Return = all video (name,duration,author,id) on page called
+Return = all video (name,duration,author,id) on page called =>> String [] =>> "[]"
 -------------------------------------------------------
 
 -------------------------------------------------------
